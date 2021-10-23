@@ -1,14 +1,14 @@
 ### Hi👋I'm Chunshuo Qiu!
 
-<img src="./assets/people.gif" style="zoom:10%;" />**I love connecting with different people** so if you want to say **hi, I'll be happy to meet you more!** :)
+<img src="./assets/people.gif" width=5% />**I love connecting with different people** so if you want to say **hi, I'll be happy to meet you more!** :)
 
 [![pisceskkk's GitHub stats](https://github-readme-stats.vercel.app/api?username=pisceskkk)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pisceskkk&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <img src="./assets/code.gif" style="zoom:27%;" /> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pisceskkk&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <img src="./assets/code.gif" width=23% /> 
 
 ### Tools & Environments
 
-![](https://img.shields.io/badge/-VS Code-%23007ACC?logo=visualstudiocode) ![](https://img.shields.io/badge/-Vim-%23019733?logo=Vim) ![Git (shields.io)](https://img.shields.io/badge/-Git-%23F05032?logo=Git) 
+![](https://img.shields.io/badge/-VS%20Code-%23007ACC?logo=visualstudiocode) ![](https://img.shields.io/badge/-Vim-%23019733?logo=Vim) ![Git (shields.io)](https://img.shields.io/badge/-Git-%23F05032?logo=Git) 
 
 ![](https://img.shields.io/badge/-Windows-%230078D6?logo=Windows) ![](https://img.shields.io/badge/-Ubuntu-%23E95420?logo=Ubuntu) ![](https://img.shields.io/badge/-Arch%20Linux-%231793D1?logo=archlinux) 
 
